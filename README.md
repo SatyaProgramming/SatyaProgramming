@@ -39,5 +39,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
+#### Thanks for stopping by! :raised_hands: 
+![VisitorCount🌟](https://profile-counter.glitch.me/SatyaProgramming/count.svg)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaprogramming&layout=compact&hide=html" alt="satyaprogramming" /></p>
