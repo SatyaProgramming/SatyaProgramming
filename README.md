@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/SatyaProgramming/SatyaProgramming/main/readme_header.png)](https://codegrills.in)
+[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif)](https://github.com/SatyaProgramming)
 
 <h1 align="center">Hi 👋, I'm Satya</h1>
 <h3 align="center">Passionate about coding and creating innovative solutions</h3>
