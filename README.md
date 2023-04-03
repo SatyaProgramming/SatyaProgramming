@@ -11,7 +11,7 @@
 
 - 👨‍💻 Check out my portfolio of projects [Here](https://skillstack.me/)
 
-- 📫 Drop me a line at **satyaranjan.swain.dev@gmail.com**  to connect with me.
+- 📫 Drop me a line at **satyaranjan.swain.dev@gmail.com**
 
 - ⚡ Fun fact : **Sci-fi flicks fuel my coding creativity**
 
