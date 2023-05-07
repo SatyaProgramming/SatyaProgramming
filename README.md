@@ -1,7 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif)](https://github.com/SatyaProgramming)
 
 <h1 align="center">Hi 👋, I'm Satya</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <h3 align="center">Passionate about coding and creating innovative solutions</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif">
